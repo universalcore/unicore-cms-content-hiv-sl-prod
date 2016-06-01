@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Elige una respuesta: [S\u00cd] o [NO]", 
+  "language": "spa_ES", 
+  "title": "\u00bfEs el VIH la misma cosa que el SIDA?", 
+  "primary_category": "e53fb4dab38b4ef1a8ff374164002714", 
+  "created_at": "2016-02-23T07:03:31+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-05-16T22:31:53.301419+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "10a68fd7b1f84814a9bd3d70271f5f58"
+  ], 
+  "id": null, 
+  "content": "Respuesta: NO. El VIH NO es igual que el SIDA. VIH es la forma abreviada de virus de la inmunodeficiencia humana, que ataca al sistema inmune de las personas, es decir, la parte de nuestro organismo que combate las enfermedades. Si no se trata, el virus puede producir el SIDA, que es la forma abreviada de s\u00edndrome de inmunodeficiencia adquirida. El SIDA es mucho m\u00e1s grave que el VIH, pero solo puede transmitirse a trav\u00e9s de cinco fluidos org\u00e1nicos: 1) la sangre, 2) el semen, 3) el fluido vaginal, 4) los fluidos rectales y 5) la leche materna. Cuando una persona desarrolla el SIDA, a su organismo le resulta muy dif\u00edcil combatir otras enfermedades y ese es el motivo por el que las personas mueren de enfermedades relacionadas con el SIDA, pero no mueren realmente de SIDA.\r\n\r\nPreguntas relacionadas:\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "286f9615f2c74c0a88a37f3bc06f121f", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-el-vih-la-misma-cosa-que-el-sida", 
+  "uuid": "bccf38d939214b62aaa95806f2831738"
+}

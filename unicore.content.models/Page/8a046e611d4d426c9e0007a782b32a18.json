@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Elige una respuesta: [S\u00cd] o [NO]", 
+  "language": "spa_ES", 
+  "title": "Si soy homosexual, \u00bfpuedo contraer el VIH?", 
+  "primary_category": "e53fb4dab38b4ef1a8ff374164002714", 
+  "created_at": "2015-10-21T21:10:11+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-05-16T22:31:54.060318+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "bccf38d939214b62aaa95806f2831738"
+  ], 
+  "id": null, 
+  "content": "Respuesta: **S\u00cd** \u2013 cualquier persona \u2013 con independencia de su orientaci\u00f3n sexual y tanto si mantiene una relaci\u00f3n homosexual como una relaci\u00f3n heterosexual sin protecci\u00f3n \u2013 corre el riesgo de contraer el VIH. Las personas que se dedican al comercio sexual o que comparten jeringuillas cuando consumen drogas tambi\u00e9n corren el riesgo de infectarse con el VIH. \r\n \r\nAqu\u00ed en [PA\u00cdS], [insertar el porcentaje estad\u00edstico si entre los varones que tienen relaciones con varones existe una alta prevalencia de VIH].\r\n\r\n**Pregunta siguiente:**\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "1028b020a1414be7bfbc80d976e1ccfb", 
+  "published": null, 
+  "position": 12, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "si-soy-homosexual-puedo-contraer-el-vih", 
+  "uuid": "8a046e611d4d426c9e0007a782b32a18"
+}
